@@ -1,0 +1,19 @@
+*{
+    margin: 10;
+    padding: 10;
+    
+}
+
+body{
+    background: rosybrown;
+}
+
+.home{
+    display: flex;
+    margin-left: 30px;
+}
+
+iframe{
+    border: 2px solid aqua;
+    margin: 5px;
+}
